@@ -6,4 +6,4 @@ Author: MAD Walker
 
 YouTube Video Link: https://www.youtube.com/watch?v=Pvud2SI278M
 
-![title.png](title.png?raw=true "Title")
+![title](title.jpg?raw=true "Title")
